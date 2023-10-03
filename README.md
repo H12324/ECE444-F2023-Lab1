@@ -10,3 +10,8 @@ Didn't ask me to post a screenshot so I won't :)
 
 ### Actvity 3
 ![Update App](image.png)
+
+### Activity 4
+![docker build commands](image-4.png)
+![docker log](image-2.png)
+![docker localhost](image-3.png)
